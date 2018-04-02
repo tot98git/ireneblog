@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteRule	^index?$ index.php
+
+RewriteRule ^edit/([0-9]+) edit.php?id=$1
+
+RewriteRule ^post/([0-9]+) post.php?id=$1
+RewriteRule ^work?$ work.php
+RewriteRule ^me?$ me.php

@@ -1,0 +1,1039 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"marg-",
+				"margin-top"
+			],
+			[
+				"back",
+				"background4"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"displa",
+				"displayArt"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"slie",
+				"slideCall"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"backgr",
+				"background4"
+			],
+			[
+				"translate",
+				"translateX()"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"overlwo",
+				"overflow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"re",
+				"result-grid"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"swat",
+				"swatches"
+			],
+			[
+				"paddign",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"heigh",
+				"heightani"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"img",
+				"img-container"
+			],
+			[
+				"sett",
+				"settings-option"
+			],
+			[
+				"post",
+				"post-container"
+			],
+			[
+				"mana",
+				"manage_advanced"
+			],
+			[
+				"radio",
+				"radio-buttons"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"page",
+				"page_first_res"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"fizz",
+				"FizzBuzz"
+			],
+			[
+				"swa",
+				"swatch"
+			],
+			[
+				"heade",
+				"headerTitle"
+			],
+			[
+				"art",
+				"artquery"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"on",
+				"onreadystatechange"
+			],
+			[
+				"ajax",
+				"ajaxReq"
+			],
+			[
+				"aja",
+				"ajaxReq"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fjale",
+				"fjalekalimi"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"row",
+				"rowquery"
+			],
+			[
+				"moda",
+				"modal-container"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_object"
+			],
+			[
+				"fileName",
+				"fileNameNew"
+			],
+			[
+				"fileE",
+				"fileError"
+			],
+			[
+				"file",
+				"fileActualext"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_array"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"slide",
+				"slidesIndex"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "irenestili.css",
+			"settings":
+			{
+				"buffer_size": 12467,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ireneworkstili.css",
+			"settings":
+			{
+				"buffer_size": 11965,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work.php",
+			"settings":
+			{
+				"buffer_size": 4464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work - Copy.php",
+			"settings":
+			{
+				"buffer_size": 6259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "art.php",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*CREATE TABLE Shifts(\nsid int primary key identity(1,1),\n refid int,\n sdate date,\n checkin time,\n checkout time,\n unique(refid,sdate,checkin),\n Foreign key(refid) references Employees(ref_eid)\n)*/\nDrop table Shifts\nDrop procedure dbo.prRegisterEntries\nAlter procedure dbo.prRegisterEntries @refid int\n\tas\n\t\tbegin\n\t\t\tif exists (Select checkout from Shifts where refid=@refid and sdate=convert(date,getdate(),108) and checkin<>null and checkout=null)\n\t\t\t\tbegin\n\t\t\t\t\tprint('First condition fulfilled')\n\t\t\t\t\tUpdate Shifts set checkout = LTRIM(RIGHT(CONVERT(VARCHAR(20), GETDATE(), 100), 7)) where refid=@refid and sdate=convert(date,getdate(),108) and checkout=null\n\t\t\t\tend\n\t\t\telse\n\t\t\t\tbegin\n\t\t\t\t\tprint('Second condition fulfilled')\n\t\t\t\t\tInsert into Shifts(refid,sdate,checkin,checkout) values(@refid,convert(date,getdate(),108),LTRIM(RIGHT(CONVERT(VARCHAR(20), GETDATE(), 100), 7)),null)\n\t\t\t\tend\n\t\tend\n\nInsert into Shifts Values(123123,'2017-11-19','18:54:00.000000','20:05:00.0000000')\nInsert into Shifts Values(123123,'2017-11-19','20:30:00.000000','03:15:00.0000000')\nInsert into Shifts Values(123123,'2017-11-19','3:40:00.000000','6:55:00.0000000')\n\n\n\nExec dbo.prRegisterEntries @refid=123123\nSelect * from Shifts\n\nSelect refid,sdate,datediff(hour,checkin,checkout) as minsWorked from Shifts\n\nCreate function (Select refid,sdate,datediff(hour,checkin,checkout) Select refid,sdate,abs(floor(sum(minsWorked)/60)) as hoursWorked,abs(sum(minsWorked)%60) as minsWorked from hrswrked group by refid,sdate\t /* I added 45mins assuming that an employee gets 45 mins of break each day. He could have used them but if he didn't that meant he did extra work*/\n\n\n",
+			"file": "/E/AdvancedDatabase/uctm db/Assign_2_query.sql",
+			"file_size": 1788,
+			"file_write_time": 131556958881872128,
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mestili.css",
+			"settings":
+			{
+				"buffer_size": 5325,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "me.php",
+			"settings":
+			{
+				"buffer_size": 2143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ireneblog",
+		"/C/Users/kastr/Desktop/UBT_DynWEB"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ireneblog/dbconfig.php",
+		"/C/xampp/htdocs/ireneblog/index - Copy.php",
+		"/C/xampp/htdocs/ireneblog/mestili.css",
+		"/C/xampp/htdocs/ireneblog/work.php",
+		"/C/xampp/htdocs/ireneblog/index.php",
+		"/C/xampp/htdocs/ireneblog/me.php",
+		"/C/xampp/htdocs/ireneblog/work - Copy.php",
+		"/C/xampp/htdocs/ireneblog/slider.php",
+		"/C/xampp/htdocs/ireneblog/ireneworkstili.css",
+		"/C/xampp/htdocs/ireneblog/.htaccess",
+		"/C/xampp/htdocs/ireneblog/new_post.php",
+		"/C/xampp/htdocs/ireneblog/info.php",
+		"/C/xampp/htdocs/ireneblog/irenestili.css",
+		"/C/xampp/htdocs/ireneblog/home_slider.php",
+		"/C/xampp/htdocs/ireneblog/me - Copy.php",
+		"/C/xampp/htdocs/ireneblog/robots.txt",
+		"/C/xampp/htdocs/ireneblog/Vibrant.js",
+		"/C/xampp/htdocs/ireneblog/art.php",
+		"/C/xampp/htdocs/ireneblog/edit.php",
+		"/C/xampp/htdocs/ireneblog/search.php",
+		"/C/xampp/htdocs/ireneblog/imagesWIN_20170617_12_36_48_Pro.jpg",
+		"/C/Users/kastr/Desktop/mail_template.html",
+		"/C/xampp/htdocs/ireneblog/manage_advanced.php",
+		"/C/xampp/htdocs/ireneblog/artscript.js",
+		"/C/xampp/htdocs/ireneblog/artstyle.css",
+		"/C/xampp/htdocs/ireneblog/background2.svg",
+		"/C/xampp/htdocs/ireneblog/background.svg",
+		"/C/xampp/htdocs/ireneblog/background2.jpg",
+		"/C/xampp/htdocs/ireneblog/manage_users.php",
+		"/C/xampp/htdocs/ireneblog/post.php",
+		"/C/xampp/htdocs/ireneblog/manage.php",
+		"/C/xampp/htdocs/ireneblog/add_users.php",
+		"/C/xampp/htdocs/ireneblog/settings.php",
+		"/C/xampp/htdocs/ireneblog/manage_users_stili.css",
+		"/C/xampp/htdocs/ireneblog/settings_call.php",
+		"/C/xampp/htdocs/ireneblog/manage_post.css",
+		"/C/xampp/htdocs/ireneblog/manage.css",
+		"/C/xampp/htdocs/ireneblog/settings.css",
+		"/C/xampp/htdocs/ireneblog/delete.php",
+		"/C/xampp/htdocs/ireneblog/delete_user.php",
+		"/C/xampp/htdocs/ireneblog/manage_classic.php",
+		"/C/xampp/htdocs/ireneblog/manage_aside.php",
+		"/C/xampp/htdocs/ireneblog/login_page.php",
+		"/C/Users/kastr/Desktop/UBT_DynWEB/index.html",
+		"/C/Users/kastr/Desktop/UBT_Ushtr_HtmlCSS.html",
+		"/C/xampp/htdocs/ireneblog/login.php",
+		"/C/xampp/htdocs/ireneblog/poststili.css",
+		"/C/xampp/htdocs/ireneblog/clorify.css",
+		"/C/xampp/htdocs/ireneblog/getData.php",
+		"/C/xampp/htdocs/ireneblog/logout.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.49354/edit.php",
+		"/C/xampp/htdocs/ireneblog/submit.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.28207/admin.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.27874/add.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.25868/admin.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.34277/admin.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.28196/delete.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.32754/edit.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.45013/edit.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa3068.30640/delete.php",
+		"/C/Users/kastr/Desktop/fundraiser.sql",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa12564.13189/add.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa12564.15372/add1.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa9988.12444/add.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa9988.13457/admin.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa9988.17489/delete.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa5116.44816/delete.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa5116.47202/add.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa5116.49503/admin.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa5116.4176/edit.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa5116.10321/delete.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.15206/upload.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.12846/view.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.11162/index.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.10395/tbl_uploads.sql",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.20867/delete.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa4220.19919/dbconfig.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa2808.6063/db-Procedures.sql",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa7220.39864/index.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa7220.39344/deletecookie.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa7220.40584/index2.php",
+		"/C/Users/kastr/AppData/Local/Temp/Rar$DIa11660.8516/Ushtrimi05122016.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"media",
+			"min-width",
+			"min-wid",
+			".imgcontainer > h1",
+			"main-content",
+			"grid",
+			"soc-list",
+			"\n}",
+			";\n",
+			"footer",
+			"header nav ul li",
+			".content-block",
+			"before",
+			"header nav ",
+			"nav ul",
+			"main-content",
+			".content",
+			"content ",
+			"vertica-align",
+			"content",
+			"section",
+			"button",
+			"footer",
+			"modal",
+			"min-wid",
+			".content-block",
+			"header",
+			"header nav",
+			"menushow",
+			"instagram",
+			"slider",
+			"slider-block",
+			"modal",
+			"button",
+			"content",
+			"id='content'",
+			"content",
+			"slider-block",
+			"footer",
+			"section",
+			"content",
+			"button",
+			"slider-block",
+			"footer",
+			"gradient",
+			"grid",
+			"span",
+			"content",
+			"header",
+			"\t\t\t\t<",
+			"section",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id porttitor odio. Suspendisse auctor pretium ullamcorper. Maecenas ac lectus metus. Donec mauris tellus, cursus vitae tempor vitae, euismod ut ipsum. Maecenas semper imperdiet semper. Vestibulum eu enim tempor, pulvinar odio a, facilisis lectus. Suspendisse potenti. Nam bibendum gravida lacus, placerat malesuada purus luctus maximus. Fusce interdum justo id felis porta, quis luctus nulla dapibus. Curabitur sollicitudin risus in erat mollis maximus. Duis suscipit, mauris vitae tincidunt egestas, magna felis porttitor purus, vel pellentesque risus lacus in dui. Nunc porta iaculis augue, vitae rhoncus dolor convallis ac. Aliquam erat volutpat. Praesent ullamcorper neque at tellus vestibulum, vel fermentum urna ullamcorper. Maecenas suscipit tincidunt lacinia. Donec varius elementum est, in tempus lectus placerat et. </p>\n\t\t\t<img src=\"https://c402277.ssl.cf1.rackcdn.com/photos/2842/images/hero_small/shutterstock_12730534.jpg?1352150501\">",
+			"form",
+			"label",
+			"writings",
+			"section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\ireneblog"
+		},
+		{
+			"path": "C:\\Users\\kastr\\Desktop\\UBT_DynWEB"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3811,
+								3811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 766.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "irenestili.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10952,
+								10995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 6849.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ireneworkstili.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10916,
+								10916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7039.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "work.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2484,
+								2484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "work - Copy.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4344,
+								4366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "art.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/AdvancedDatabase/uctm db/Assign_2_query.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "mestili.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5322,
+								5322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2699.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "me.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2127,
+								2127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 494.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

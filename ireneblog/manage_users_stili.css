@@ -1,0 +1,222 @@
+body{
+	margin:0;
+	width:100%;
+	height:100%;
+	background-color: #F4F7F3;
+}
+header{
+	width:100%;
+	background-color:white;
+	position: relative;
+	height:100px;
+	border-bottom:1px solid #DFE3E7;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+header > h1{
+	position: relative;
+	color: #36a7f2;
+	width: 20%;
+	left:5%;
+	margin:0;
+	padding-top: 20px;
+	float: left;
+}
+header > i{
+	float: right;
+	padding:30px;
+}
+header>i:hover{
+	cursor: pointer;
+}
+#section-header{
+	background-color: rgba(255,255,255,0.5);
+	margin-left:5px;
+	border-radius: 5px 5px;
+	padding-left: 40px;
+	padding-bottom: 5px;
+	margin-top:4px;
+	margin-bottom: -10px;
+}
+#section-header:nth-child(1){
+	padding-top:2px;
+}
+#section-header>h1,#section-header>h5{
+	font-family: 'Roboto',sans-serif;
+}
+#section-header>h1:hover,#section-header>h5:hover{
+	text-shadow: 0px 0px 10px gray;
+}
+#user-info{
+	border:0.5px solid gray;
+	right:1%;
+	top:60px;
+	position:absolute;
+	background-color: white;
+	width:15%;
+	height:120%;
+	padding-left: 20px;
+	display: none;
+}
+#user-info>h1{
+	left:0;
+	box-sizing: border-box;
+	font-family: 'Open Sans',sans-serif;
+	color:rgba(0,0,0,0.7);
+	text-align: center;
+	padding:10px;
+	font-size: 1vw;
+	width: 100%;
+}
+#user-info>h1:nth-child(1){
+		border-bottom:1.5px solid gray;
+}
+.admin{
+	width:4%;
+	background-color:#1C112A;
+	height:100%;
+	float: left;	
+}
+.active{
+	background-color: white;
+}
+.admin ul{
+	list-style-type:none;
+	margin-left:-40px;
+	position: relative;
+	top:10%;
+}
+.admin ul li i{
+	padding-right:5px;
+}
+.admin ul li{
+	font-size:120%;
+	margin-bottom:10px;
+	color:gray;
+	padding:10px;
+font-family: 'Roboto',sans-serif;"
+}
+section{
+	width:95%;
+	float:right;
+}
+form select{
+	border-radius:10px 10px;
+	font-size:120%;
+		font-family: 'Slabo 27px', serif;
+		padding:5px;
+}
+form label{
+	font-size:105%;
+	padding-left:20px;
+	padding-right:20px;
+	font-family: 'Slabo 27px', serif;
+
+}
+section table{
+	width:100%;
+}
+table tr th{
+	background-color: #0b165b;
+	color:white;
+	padding:10px;
+		font-family: 'Slabo 27px', serif;
+
+}
+table td{
+	background-color: rgba(255,255,255,0.5);
+}
+table td:hover{
+	cursor:pointer;
+}
+table td{
+		padding:10px;
+}
+#modal-container{
+	width:100%;
+	height: 800px;
+	background-color: rgba(0,0,0,0.5);
+	position: fixed;
+	z-index: 2;
+	display: none;
+}
+#modal{
+	position: fixed;
+	left:40%;
+	top:40%;
+	background-color: white;
+	padding: 10px;
+
+}
+#modal form input,#modal form select{
+	margin:10px;
+	font-size:26px;
+	border-radius: 5px 5px;
+	width: 90%;
+	transition: 0.5s;
+}
+#modal form input[type=submit]:hover{
+	background-color: #1C112A;
+	color:white;
+	cursor: pointer;
+	border:none;
+}
+#modal-close{
+	position: absolute;
+	float: right;
+	right:0%;
+	top:-15%;
+	padding: 10px;
+	color: white;
+}
+#modal-close:hover{
+	background-color: #1C112A;
+	color:white;
+	cursor: pointer;
+}
+#modal-title{
+	margin:0px;
+	float:left;
+	position: absolute;
+	left:0px;
+	top:-15%;
+	background-color: #1C112A;
+	color: white;
+	width:96%;
+	padding: 10px;
+}
+#newuser{
+	padding:10px;
+	background-color: white;
+	color:black;
+	border:2px solid black;
+	float: right;
+	transition: 0.2s;
+	margin-top:20px;
+	font-family: 'Roboto',sans-serif;
+}
+#newuser:active{
+	box-shadow: inset 0px 0px px black;
+}
+#newuser:hover{
+	cursor: pointer;
+	background-color: navy;
+	color:white;
+}
+#result{
+	background-color: white;
+	width:40%;
+	position: absolute;
+	left:30%;
+	border-radius: 0px 0px 20px 20px;
+	height:100px;
+	display: none;
+}
+#result span{
+	position: relative;
+	top:40px;
+	left:27%;
+	font-size:23px;
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: manage.php
+Disallow: login.php
+Disallow: edit.php
+Disallow: new_post.php
